@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.LOVE one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.love        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.love        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.love  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.love      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.love    | available | 60       | 2%     | 7      |           |         |         |
@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.LOVE one word domains
 | abatic.love     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.love    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.love   | available | 50       | 1%     | 8      |           |         |         |
-| abc.love        | available | 102      | 41%    | 3      |           |         |         |
+| abc.love        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.love  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.love  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.love | available | 56       | 1%     | 10     |           |         |         |
