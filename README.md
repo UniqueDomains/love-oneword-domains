@@ -1,22 +1,22 @@
-# Available .LOVE One-Word Domains (8,279)
+# Available .LOVE One-Word Domains (10,581)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C281%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C279%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C581%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .love one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .love one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,581 domains** on the canonical page below.
 
-**Public extract:** 8,281 rows · **Live catalog:** 8,279 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,581 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/love`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LOVE one-word domain 
 
 ### Files
 
-- `love.csv` — public CSV extract (8,281 rows)
-- `love.json` — public JSON extract (8,281 rows)
+- `love.csv` — public CSV extract (1,000 rows)
+- `love.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| adobe.love      | available | $38.98    | —             | 72             | 70     | 5      | namecheap                                          |
-| academic.love   | resell    | $31.98    | —             | 96             | 21     | 8      | Chengdu West Dimension Digital Technology Co., LTD |
-| converse.love   | premium   | $3,640    | $5,200        | 64             | 73     | 8      | namecheap                                          |
-| nationwide.love | available | $38.98    | —             | 76             | 66     | 10     | namecheap                                          |
-| sovereign.love  | resell    | —         | —             | 86             | 98     | 9      | Dynadot, LLC                                       |
-| sense.love      | premium   | $227.50   | $325          | 84             | 63     | 5      | namecheap                                          |
-| artistry.love   | available | $38.98    | —             | 82             | 63     | 8      | namecheap                                          |
-| fierce.love     | resell    | —         | —             | 80             | 98     | 6      | GoDaddy                                            |
-| cloud.love      | premium   | $520      | $1,040        | 70             | 59     | 5      | namecheap                                          |
-| stark.love      | available | $38.98    | —             | 72             | 45     | 5      | namecheap                                          |
-| autonomous.love | resell    | —         | —             | 76             | 98     | 10     | GMO Internet, Inc. d/b/a Onamae.com                |
-| ace.love        | premium   | $5,460    | $7,800        | 88             | 57     | 3      | namecheap                                          |
-| trace.love      | available | $38.98    | —             | 64             | 36     | 5      | namecheap                                          |
-| peacock.love    | resell    | —         | —             | 68             | 81     | 7      | GMO Internet, Inc. d/b/a Onamae.com                |
-| live.love       | premium   | $5,460    | $7,800        | 108            | 56     | 4      | namecheap                                          |
-| checkin.love    | available | $38.98    | —             | 72             | 28     | 8      | namecheap                                          |
-| standard.love   | resell    | —         | —             | 66             | 70     | 8      | Porkbun LLC                                        |
-| business.love   | premium   | $2,600    | $5,200        | 100            | 53     | 8      | namecheap                                          |
-| adept.love      | available | $38.98    | —             | 92             | 26     | 5      | namecheap                                          |
-| reset.love      | resell    | —         | —             | 70             | 68     | 5      | GoDaddy                                            |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
+| regions.love       | available | $38.98    | —             | 64             | 59     | 7      | namecheap                                          |
+| shortcuts.love     | resell    | —         | —             | 48             | 41     | 10     | NAMECHEAP                                          |
+| cars.love          | premium   | $5,250    | —             | 66             | 47     | 4      | name.com                                           |
+| keepthechange.love | available | $38.98    | —             | 46             | 59     | 15     | namecheap                                          |
+| trends.love        | resell    | —         | —             | 60             | 32     | 6      | West263 International Limited                      |
+| lets.love          | premium   | $437.50   | —             | 77             | 39     | 4      | name.com                                           |
+| deeplearning.love  | available | $38.98    | —             | 74             | 23     | 13     | namecheap                                          |
+| workers.love       | resell    | —         | —             | 60             | 20     | 7      | Chengdu West Dimension Digital Technology Co., LTD |
+| WiFi.love          | premium   | $1,470    | $2,100        | 83             | 37     | 5      | namecheap                                          |
+| inhouse.love       | available | $38.98    | —             | 70             | 23     | 8      | namecheap                                          |
+| vitamins.love      | resell    | —         | —             | 60             | 17     | 8      | GoDaddy                                            |
+| stories.love       | premium   | $2,187.50 | —             | 58             | 36     | 7      | name.com                                           |
+| origins.love       | available | $38.98    | —             | 46             | 22     | 7      | namecheap                                          |
+| Catholics.love     | resell    | —         | —             | 58             | 8      | 9      | Porkbun LLC                                        |
+| tokens.love        | premium   | $437.50   | —             | 51             | 36     | 6      | name.com                                           |
+| distributed.love   | available | $38.98    | —             | 64             | 21     | 11     | namecheap                                          |
+| homes.love         | premium   | $700      | —             | 86             | 34     | 5      | name.com                                           |
+| geeks.love         | available | $38.98    | —             | 54             | 21     | 5      | namecheap                                          |
+| tickets.love       | premium   | $5,250    | —             | 64             | 34     | 7      | name.com                                           |
+| hills.love         | available | $38.98    | —             | 65             | 20     | 5      | namecheap                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,281-row public sample | 8,279 live domains                               |
+| 1,000-row public sample | 10,581 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
