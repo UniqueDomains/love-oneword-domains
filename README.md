@@ -1,10 +1,10 @@
-# Available .LOVE One-Word Domains (11,069)
+# Available .LOVE One-Word Domains (11,078)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C069%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C078%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .love one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,069 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,078 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,069 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,078 domains · **Median ask:** $313.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/love`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,18 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
+| geton.love         | available | $38.98    | —             | 82             | 10     | 6      | namecheap                                          |
+| edamame.love       | available | $9.99     | $28.99        | 80             | 9      | 7      | namesilo                                           |
+| playon.love        | available | $38.98    | —             | 80             | 14     | 7      | namecheap                                          |
+| QandA.love         | available | $38.98    | —             | 80             | 10     | 7      | namecheap                                          |
+| hangon.love        | available | $38.98    | —             | 82             | 6      | 7      | namecheap                                          |
+| stirup.love        | available | $38.98    | —             | 82             | 3      | 7      | namecheap                                          |
+| leaveon.love       | available | $38.98    | —             | 80             | 1      | 8      | namecheap                                          |
+| FabFour.love       | available | $9.99     | $28.99        | 82             | 3      | 8      | namesilo                                           |
+| headout.love       | available | $38.98    | —             | 82             | 6      | 8      | namecheap                                          |
+| surebet.love       | available | $38.98    | —             | 82             | 8      | 8      | namecheap                                          |
+| beawake.love       | available | $38.98    | —             | 84             | 3      | 8      | namecheap                                          |
+| keepfit.love       | available | $38.98    | —             | 86             | 9      | 8      | namecheap                                          |
 | regions.love       | available | $38.98    | —             | 64             | 59     | 7      | namecheap                                          |
 | shortcuts.love     | resell    | —         | —             | 48             | 41     | 10     | NAMECHEAP                                          |
 | cars.love          | premium   | $5,250    | —             | 66             | 47     | 4      | name.com                                           |
@@ -72,18 +84,6 @@ print(df.head())
 | lets.love          | premium   | $437.50   | —             | 77             | 39     | 4      | name.com                                           |
 | deeplearning.love  | available | $38.98    | —             | 74             | 23     | 13     | namecheap                                          |
 | webs.love          | resell    | —         | —             | 56             | 21     | 4      | Chengdu West Dimension Digital Technology Co., LTD |
-| WiFi.love          | premium   | $1,470    | $2,100        | 83             | 37     | 5      | namecheap                                          |
-| inhouse.love       | available | $38.98    | —             | 70             | 23     | 8      | namecheap                                          |
-| workers.love       | resell    | —         | —             | 60             | 20     | 7      | Chengdu West Dimension Digital Technology Co., LTD |
-| tokens.love        | premium   | $437.50   | —             | 51             | 36     | 6      | name.com                                           |
-| origins.love       | available | $38.98    | —             | 46             | 22     | 7      | namecheap                                          |
-| phones.love        | resell    | —         | —             | 76             | 19     | 6      | Chengdu West Dimension Digital Technology Co., LTD |
-| homes.love         | premium   | $700      | —             | 86             | 34     | 5      | name.com                                           |
-| distributed.love   | available | $38.98    | —             | 64             | 21     | 11     | namecheap                                          |
-| vitamins.love      | resell    | —         | —             | 60             | 17     | 8      | GoDaddy                                            |
-| tickets.love       | premium   | $5,250    | —             | 64             | 34     | 7      | name.com                                           |
-| affiliates.love    | available | $9.99     | $28.99        | 60             | 21     | 10     | namesilo                                           |
-| Catholics.love     | resell    | —         | —             | 58             | 8      | 9      | Porkbun LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,069 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,078 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all in the .love extension, so the core question is fit. A .love name works best when the word pairs naturally with emotion, affinity, community, gifts, dating, pets, wellness, or values-led branding. In this set, examples such as Ethical.love, Dogsit.love, Gearup.love, and Edamame.love show a mix of direct keywords, action phrases, and broader brandable words. When comparing these domains, focus on whether the word feels natural before .love, whether it is easy to say and spell, and whether the ask price is justified by clarity, memorability, and commercial use.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that read naturally with .love
+- Median ask across this set is $313
+- Check spelling ease and spoken clarity
+- Avoid words with obvious trademark exposure
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
