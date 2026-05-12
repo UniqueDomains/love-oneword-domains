@@ -611,6 +611,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 37b9dc30-4898-48f6-af34-b3047df6bef2,polled.love,available,38.98,,69,3,6,namecheap,,
 37ba7d64-6d8d-45ae-9f55-d96f587b8468,pairoftongs.love,available,38.98,,65,0,13,namecheap,,
 37c4e602-0ef1-4a1a-9e86-42b17263341e,cases.love,premium,437.5,,50,12,5,name.com,,
+37c905bf-1f41-4fe6-8cdf-acaa5cb9450b,myspace.love,premium,,,80,66,7,,,
 37ed34fc-d6c2-49ba-8b77-95f40974b6e2,wins.love,premium,218.75,,68,21,4,name.com,,
 37f0b1c0-0277-407d-a23e-b1742a436fbe,barbecuedpork.love,available,38.98,,58,0,14,namecheap,,
 380247bd-8f3a-47e8-97bc-24943e636e59,MiddleEasterner.love,available,38.98,,62,1,16,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5dbf7356-04e1-4766-bb26-f5f7546f0285,affiliates.love,available,9.99,28.99,60,21,10,namesilo,,
 5dcf3f37-d42d-4a23-8f76-3470e3fa7bb4,keepupwith.love,available,38.98,,76,2,12,namecheap,,
 5dd0b9eb-f5ff-4302-9d5f-98ab2c35c888,Imustgo.love,available,38.98,,58,1,9,namecheap,,
-5de7788b-8234-4702-8c7c-f805fa7e6e51,letsomeonego.love,available,38.98,,69,1,14,namecheap,,
