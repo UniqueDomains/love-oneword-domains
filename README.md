@@ -82,7 +82,7 @@ print(df.head())
 | keepthechange.love | available | $38.98    | —             | 46             | 59     | 15     | namecheap                                          |
 | trends.love        | resell    | —         | —             | 60             | 32     | 6      | West263 International Limited                      |
 | lets.love          | premium   | $437.50   | —             | 77             | 39     | 4      | name.com                                           |
-| deeplearning.love  | available | $38.98    | —             | 74             | 23     | 13     | namecheap                                          |
+| inhouse.love       | available | $38.98    | —             | 70             | 24     | 8      | namecheap                                          |
 | webs.love          | resell    | —         | —             | 56             | 21     | 4      | Chengdu West Dimension Digital Technology Co., LTD |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
