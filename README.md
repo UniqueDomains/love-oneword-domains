@@ -1,10 +1,10 @@
-# Available .LOVE One-Word Domains (15,838)
+# Available .LOVE One-Word Domains (16,046)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C838%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C046%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .love one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,838 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,046 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,838 domains · **Median ask:** $324.64 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 16,046 domains · **Median ask:** $321.31 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/tld/love`
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,13 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| away.love     | available | $9.99     | $28.99        | high           | low    | 4      | namesilo                                           |
-| cut.love      | premium   | $5,460    | $7,800        | high           | low    | 3      | namecheap                                          |
 | agog.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
 | thread.love   | resell    | $666.87   | —             | high           | low    | 6      | GMO Internet, Inc. d/b/a Onamae.com                |
 | aft.love      | premium   | $1,312.50 | $1,875        | low            | low    | 3      | name.com                                           |
 | ashy.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
 | academic.love | resell    | $31.98    | —             | high           | low    | 8      | Chengdu West Dimension Digital Technology Co., LTD |
 | apt.love      | premium   | $1,312.50 | —             | high           | low    | 3      | name.com                                           |
+| away.love     | available | $9.99     | $28.99        | high           | low    | 4      | namesilo                                           |
 | base.love     | resell    | —         | —             | medium         | medium | 4      | Squarespace Domains II LLC                         |
 | bce.love      | premium   | $1,312.50 | —             | medium         | low    | 3      | name.com                                           |
 | awol.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
@@ -84,6 +83,7 @@ print(df.head())
 | grin.love     | resell    | —         | —             | high           | low    | 4      | GoDaddy                                            |
 | bot.love      | premium   | $1,312.50 | —             | high           | medium | 3      | name.com                                           |
 | clxv.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
+| term.love     | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,838 live domains                        |
+| 1,000-row public sample | 16,046 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
