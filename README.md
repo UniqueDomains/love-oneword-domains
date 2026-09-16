@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .love one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,071 domains · **Median ask:** $249.07 · **High-demand under $2,500:** 11
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/love`
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,14 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
+| away.love     | available | $9.99     | $28.99        | high           | low    | 4      | namesilo                                           |
+| cut.love      | premium   | $5,460    | $7,800        | high           | low    | 3      | namecheap                                          |
 | agog.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
 | thread.love   | resell    | $666.87   | —             | high           | low    | 6      | GMO Internet, Inc. d/b/a Onamae.com                |
 | aft.love      | premium   | $1,312.50 | $1,875        | low            | low    | 3      | name.com                                           |
 | ashy.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
 | academic.love | resell    | $31.98    | —             | high           | low    | 8      | Chengdu West Dimension Digital Technology Co., LTD |
 | apt.love      | premium   | $1,312.50 | —             | high           | low    | 3      | name.com                                           |
-| away.love     | available | $9.99     | $28.99        | high           | low    | 4      | namesilo                                           |
 | base.love     | resell    | —         | —             | medium         | medium | 4      | Squarespace Domains II LLC                         |
 | bce.love      | premium   | $1,312.50 | —             | medium         | low    | 3      | name.com                                           |
 | awol.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
@@ -83,7 +84,6 @@ print(df.head())
 | grin.love     | resell    | —         | —             | high           | low    | 4      | GoDaddy                                            |
 | bot.love      | premium   | $1,312.50 | —             | high           | medium | 3      | name.com                                           |
 | clxv.love     | available | $4.98     | $38.98        | low            | low    | 4      | namecheap                                          |
-| term.love     | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
