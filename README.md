@@ -1,10 +1,10 @@
-# Available .LOVE One-Word Domains (21,524)
+# Available .LOVE One-Word Domains (21,996)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C524%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C996%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .love one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,524 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,996 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,524 domains · **Median ask:** $435.90 · **High-demand under $2,500:** 19
+**Public extract:** 1,000 rows · **Live catalog:** 21,996 domains · **Median ask:** $434.54 · **High-demand under $2,500:** 19
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/love`
@@ -66,22 +66,22 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
 | abed.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
 | asset.love    | resell    | $4.98     | $38.98        | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
-| any.love      | premium   | $8,280    | $8,280        | high           | medium | 3      | namesilo                                           |
+| are.love      | premium   | $3,500    | —             | high           | low    | 3      | name.com                                           |
 | abls.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
 | captive.love  | resell    | $31.98    | —             | high           | low    | 7      | Dynadot, LLC                                       |
-| are.love      | premium   | $3,500    | —             | high           | low    | 3      | name.com                                           |
+| auc.love      | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                                           |
 | akha.love     | available | $9.99     | $28.99        | medium         | low    | 4      | namesilo                                           |
 | circular.love | resell    | $9.99     | $28.99        | high           | low    | 8      | Chengdu West Dimension Digital Technology Co., LTD |
-| auc.love      | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                                           |
+| ayr.love      | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                                           |
 | alky.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
 | toon.love     | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
-| ayr.love      | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                                           |
+| bad.love      | premium   | $1,365    | $1,950        | high           | medium | 3      | namecheap                                          |
 | alms.love     | available | $9.99     | $28.99        | medium         | low    | 4      | namesilo                                           |
 | arbor.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
-| bad.love      | premium   | $1,365    | $1,950        | high           | medium | 3      | namecheap                                          |
+| bed.love      | premium   | $5,250    | —             | high           | low    | 3      | name.com                                           |
 | anoa.love     | available | $9.99     | $28.99        | medium         | low    | 4      | namesilo                                           |
 | aster.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
-| bed.love      | premium   | $5,250    | —             | high           | low    | 3      | name.com                                           |
+| bra.love      | premium   | $1,312.50 | —             | high           | low    | 3      | name.com                                           |
 | ashy.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
 | gleam.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,524 live domains                        |
+| 1,000-row public sample | 21,996 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 19 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
