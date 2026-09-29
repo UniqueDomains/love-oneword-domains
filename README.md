@@ -1,10 +1,10 @@
-# Available .LOVE One-Word Domains (21,996)
+# Available .LOVE One-Word Domains (23,848)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C996%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C848%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .love one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,996 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,848 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,996 domains · **Median ask:** $434.54 · **High-demand under $2,500:** 19
+**Public extract:** 1,000 rows · **Live catalog:** 23,848 domains · **Median ask:** $433.08 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/love`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
 | abed.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
 | asset.love    | resell    | $4.98     | $38.98        | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
-| are.love      | premium   | $3,500    | —             | high           | low    | 3      | name.com                                           |
+| are.love      | premium   | $5,520    | $5,520        | high           | low    | 3      | namesilo                                           |
 | abls.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
 | captive.love  | resell    | $31.98    | —             | high           | low    | 7      | Dynadot, LLC                                       |
 | auc.love      | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                                           |
-| akha.love     | available | $9.99     | $28.99        | medium         | low    | 4      | namesilo                                           |
-| circular.love | resell    | $9.99     | $28.99        | high           | low    | 8      | Chengdu West Dimension Digital Technology Co., LTD |
-| ayr.love      | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                                           |
 | alky.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
-| toon.love     | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
-| bad.love      | premium   | $1,365    | $1,950        | high           | medium | 3      | namecheap                                          |
+| deliver.love  | resell    | $704.78   | —             | high           | low    | 7      | name.com                                           |
+| ayr.love      | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                                           |
 | alms.love     | available | $9.99     | $28.99        | medium         | low    | 4      | namesilo                                           |
-| arbor.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
-| bed.love      | premium   | $5,250    | —             | high           | low    | 3      | name.com                                           |
+| circular.love | resell    | $9.99     | $28.99        | high           | low    | 8      | Chengdu West Dimension Digital Technology Co., LTD |
+| bad.love      | premium   | $1,365    | $1,950        | high           | medium | 3      | namecheap                                          |
 | anoa.love     | available | $9.99     | $28.99        | medium         | low    | 4      | namesilo                                           |
-| aster.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
-| bra.love      | premium   | $1,312.50 | —             | high           | low    | 3      | name.com                                           |
+| toon.love     | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., LTD |
+| bed.love      | premium   | $8,280    | $8,280        | high           | low    | 3      | namesilo                                           |
 | ashy.love     | available | $4.98     | $38.98        | medium         | low    | 4      | namecheap                                          |
-| gleam.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
+| arbor.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
+| bra.love      | premium   | $1,312.50 | —             | high           | low    | 3      | name.com                                           |
+| bile.love     | available | $9.99     | $28.99        | medium         | low    | 4      | namesilo                                           |
+| aster.love    | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., LTD |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,996 live domains                        |
+| 1,000-row public sample | 23,848 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 19 high-demand names under $2,500          |
+| Basic exported fields   | 21 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOVE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
